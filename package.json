@@ -1,0 +1,15 @@
+{
+  "name": "backend-formulario-netlify",
+  "version": "1.0.0",
+  "description": "Backend Netlify Functions para formulário com envio de email",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "keywords": ["netlify", "functions", "nodemailer", "email"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
